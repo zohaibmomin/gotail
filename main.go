@@ -30,25 +30,25 @@ func tail(filename string, out io.Writer) {
 				fmt.Fprintln(out, string(line))
 			}
 		}
-		pos, err := f.Seek(0, io.SeekCurrent)
+		pos, err := f.Seek(0, io.SeekCurrent) // helps get the position
 		if err != nil {
 			panic(err)
 		}
 		for {
-			time.Sleep(time.Second)
-			newinfo, err := f.Stat()
+			time.Sleep(time.Second)  //adds delay while concurrency
+			newinfo, err := f.Stat() // gets new file size using f stat
 			if err != nil {
 				panic(err)
 			}
 			newSize := newinfo.Size()
 			if newSize != oldSize {
-				if newSize < oldSize {
+				if newSize < oldSize { //if old file bigger then continue reading
 					f.Seek(0, 0)
 				} else {
-					f.Seek(pos, io.SeekStart)
+					f.Seek(pos, io.SeekStart) //else go to new start
 				}
 				r = bufio.NewReader(f)
-				oldSize = newSize
+				oldSize = newSize // assign new size to old
 				break
 			}
 		}
