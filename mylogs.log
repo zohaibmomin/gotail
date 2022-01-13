@@ -1,0 +1,44 @@
+Mon Apr 12 06:49:47 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:47 2021 Cancel order request sent.
+Mon Apr 12 06:49:49 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:49 2021 Cancel order request sent.
+Mon Apr 12 06:49:49 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:49 2021 Cancel order request sent.
+Mon Apr 12 06:49:51 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:51 2021 Cancel order request sent.
+Mon Apr 12 06:49:51 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:51 2021 Cancel order request sent.
+Mon Apr 12 06:49:51 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:51 2021 Cancel order request sent.
+Mon Apr 12 06:49:52 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:52 2021 Cancel order request sent.
+Mon Apr 12 06:49:52 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:52 2021 Cancel order request sent.
+Mon Apr 12 06:49:52 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:52 2021 Cancel order request sent.
+Mon Apr 12 06:49:52 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:52 2021 Cancel order request sent.
+Mon Apr 12 06:49:52 2021 AMO Cancel Order Input : NestOrdNum:210410000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:530843| pUser:AGIPT0684M
+Mon Apr 12 06:49:52 2021 Cancel order request sent.
+Mon Apr 12 06:50:28 2021 Place AMO Order Input : ExchSeg:bse_cm| AccId:ZQ52W| OrdDuration:DAY| CustomerFirm:C| Product:NRML| OrderType:L| TrdSymbol:KOTAKBANK| TransType:B| GuiOrdId:(null)| ExecBroker:(null)| GuiOrgOrdId:(null)| StrategyCode:(null)| WarehouseLoc:(null)| BasketId:(null)| WaveId:(null)| LineId:(null)| UniqueKey:(null)| Token:500247| FlagToAddCategory:(null)| AuctionNo:(null)| Price:178700.0000| TriggerPrice:0.0000| Quantity:1| DiscQuantity:0| CancelledSize:0| Classification:3| StrategyId:(null)| StrategyCategory:(null)| Pan:(null)| StrTrgSeqNo:(null)| User:AGIPT0684M| MktProtectionPrice:0.0000| TickUpSqrOff:0.0000| TickDownStopLoss:0.0000| TrailingTickStopLoss:0.0000| TickSize:0.0000| LtpOrAtp:(null)| SqrOffAbsOrTick:(null)| SLAbsOrTick:(null)| TrailTickYesNo:(null)| VendorCode:88| OrderCriteria:N| OrderCriteriaText:null
+Mon Apr 12 06:50:28 2021 Before AfterMkt Order Response 1618190428|869872
+Mon Apr 12 06:50:28 2021 After AfterMkt Order Response 1618190428|869928
+Mon Apr 12 06:50:28 2021 Nest Order Number : 210412000000001 Status : after market order req received | Update At : 1618190428 870127
+Mon Apr 12 06:50:33 2021 AMO Cancel Order Input : NestOrdNum:210412000000001| GuiOrdId:(null)| GuiOrgOrdId:(null)| StrTrgSeqNo:(null)| OrderCriteria:N| Token:500247| pUser:AGIPT0684M
+Mon Apr 12 06:50:33 2021 Cancel order request sent.
+Mon Apr 12 06:50:33 2021 Before AfterMkt Cancel Order Response 1618190433|628690
+Mon Apr 12 06:50:33 2021 After AfterMkt Cancel Order Response 1618190433|628715
+Mon Apr 12 06:50:33 2021 Nest Order Number : 210412000000001 Status : cancelled after market order | Update At : 1618190433 628874
+Mon Apr 12 06:50:33 2021 Nest Order Number : 210412000000001 Status : cancelled after market order | Update At : 1618190433 628874
+Mon Apr 12 06:50:33 2021 Nest Order Number : 210412000000001 Status : cancelled after market order | Update At : 1618190433 628874
+Mon Apr 12 06:50:33 2021 Nest Order Number : 210412000000001 Status : cancelled after market order | Update At : 1618190433 628874
+Mon Apr 12 06:50:33 2021 Nest Order Number : 210412000000001 Status : cancelled after market order | Update At : 1618190433 628874
+Mon Apr 12 06:50:33 2021 Nest Order Number : 210412000000001 Status : cancelled after market order | Update At : 1618190433 628874
+Mon Apr 12 06:50:33 2021 Nest Order Number : 210412000000001 Status : cancelled after market order | Update At : 1618190433 628874
+sdfsdf
+
+
+
+
+
+
